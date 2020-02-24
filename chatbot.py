@@ -1,4 +1,4 @@
-# Import các thư viện cần thiết, đặc biệt là các thư viện được xử dụng trong NLP như NLTK, tensorflow...
+﻿# Import các thư viện cần thiết, đặc biệt là các thư viện được xử dụng trong NLP như NLTK, tensorflow...
 import nltk
 nltk.download('punkt')
 from nltk.stem.lancaster import LancasterStemmer
@@ -200,3 +200,23 @@ btn1.place(x= 200, y =50)
 
 
 tk.mainloop()
+
+
+
+//================================================================================
+
+#Với mỗi câu hỏi (hay request) người dùng nhập vào, tôi sẽ sử dụng hàm model.predict() 
+# để xác định request đó thuộc loại nào. Sau đó sẽ đưa ra các phản hồi tiềm ẩn, 
+# có khả năng và phù hợp nhất với các request trước đó. Và kết quả ....
+#Gọi hàm
+#cauhoi = str(input("Nhap cau hoi: "))
+#Với mỗi câu hỏi (hay request) người dùng nhập vào, tôi sẽ sử dụng hàm model.predict() 
+# để xác định request đó thuộc loại nào. Sau đó sẽ đưa ra các phản hồi tiềm ẩn, 
+# có khả năng và phù hợp nhất với các request trước đó. Và kết quả ....
+#Gọi hàm
+#cauhoi = str(input("Nhap cau hoi: "))
+#Với mỗi câu hỏi (hay request) người dùng nhập vào, tôi sẽ sử dụng hàm model.predict() 
+# để xác định request đó thuộc loại nào. Sau đó sẽ đưa ra các phản hồi tiềm ẩn, 
+# có khả năng và phù hợp nhất với các request trước đó. Và kết quả ....
+#Gọi hàm
+#cauhoi = str(input("Nhap cau hoi: "))
