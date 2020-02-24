@@ -1,4 +1,4 @@
-# Import các thư viện cần thiết, đặc biệt là các thư viện được xử dụng trong NLP như NLTK, tensorflow...
+﻿# Import các thư viện cần thiết, đặc biệt là các thư viện được xử dụng trong NLP như NLTK, tensorflow...
 import nltk
 nltk.download('punkt')
 from nltk.stem.lancaster import LancasterStemmer
@@ -200,3 +200,38 @@ btn1.place(x= 200, y =50)
 
 
 tk.mainloop()
+
+
+
+
+//=======================================================================================================================
+def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)def ghi():
+    cauhoi = cau_hoi.get()
+     #cauhoi =str(cauhoi)
+    b = response(cauhoi)
+    lable2.configure(text=b)
+Mr.Nicholasking123
